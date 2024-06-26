@@ -37,4 +37,3 @@ Single and Multi line Comments
 # 4 - Write a python program to print the contents of a directory using the OS module.Search online for the function whis does that.
 
 
-def 
